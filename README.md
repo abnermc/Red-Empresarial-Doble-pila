@@ -15,7 +15,7 @@ IPv4/IPv6, incluyendo:
 - Verificación de conectividad: ping, tracert, nslookup, acceso HTTP y correo
 
 ## Topología
-![Topología](Capturas/topologia.png)
+![Topología](Capturas/TopologiaEF.png)
 
 ## Direccionamiento IPv4 (VLSM)
 | Segmento | Red | Máscara | Gateway |
